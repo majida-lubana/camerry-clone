@@ -1,0 +1,136 @@
+header{
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    
+}
+.navbar-collapse{
+    padding-left: 50px;
+}
+ul.nav >li>a,header.sticky
+nav.navbar.navbar-default.navbar-top ul.nav>
+li>a{
+    padding: 30px;
+    color: azure;
+}
+@media(min-width:992px){
+    .navbar-expand-lg.navbar-nav{
+        flex-direction: row;
+    }
+}
+.simple-dropdown.dropdown{
+    position: relative;
+}
+.navbar-default.white-link
+.navbar-toggler.iconbar,header.sticky
+.navbar-default.header-dark.navbar-toggler.icon-bar{
+    background: #fff;
+}
+@media (max-width:991px){
+    nav.navbar.bootsnav .navbar-toggler{
+        top: 3px;
+    }
+}
+.sr-only{
+    border: 0;
+    clip: rect(0,0,0,0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+.navbar-toggler.icon-bar{
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+}
+.navbar-toggler.icon-bar+.icon-bar{
+    margin-top: 4px;
+}
+.img-fluid{
+   size: 30px;
+}
+.header-social-icon{
+    position: relative;
+    line-height: 15px;
+}
+.col-logo{
+    display:inline-block;
+    vertical-align: middle;
+}
+element.style{
+    background-color: rgb(140, 5, 5);
+
+}
+img{
+    width: 50%;
+
+}
+.img-fluid{
+    width: 100%;
+    height: auto;
+}
+.padding-six-lr{
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.text-center{
+    text-align: center;
+}
+@media (min-width:768px){
+    text-md-left{
+        text-align: left;
+    }
+}
+h3{
+    font-weight: 48px;
+    line-height: 54px;
+    margin-bottom: 25px;
+}
+.text-white-2{
+    color: white;
+}
+.bg-extra-dark-gray{
+    background-color: #1c1c1c;
+}
+.btn.btn-transparent-white{
+    background: transparent ;
+    border-color: #bc9e33;
+    color:#bc9e33;
+}
+footer{
+    width: 100%;
+}
+.padding-80px-top{
+    padding-top: 80px;
+}
+.margin-80px-top{
+    margin-top: 80px;
+}
+element.style{
+    color: #bc9e33;
+}
+.list-unstyled{
+    color: #bc9e33;
+}
+@media (max-width:767px){
+    .sm-margin-30px-bottom{
+        margin-bottom: 30px;
+    }
+}
+@media (max-width:767px){
+    .sm-text-center{
+        text-align: center;
+    }
+}
+.footer-logo{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+
+}
+
+
